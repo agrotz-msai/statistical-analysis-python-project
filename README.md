@@ -2,7 +2,7 @@
 This my second project in the capstone course of Udacity's Master's Degree in AI (https://www.udacity.com/masters-artificial-intelligence). 
 
 ## Overview
-In this project, we conduct a complete statistical analysis for a dataset on passengers of the Titanic (https://www.kaggle.com/c/titanic/data). 
+In this project, we conduct some statistical analysis for a dataset on passengers of the Titanic (https://www.kaggle.com/c/titanic/data). 
 This dataset contains biometric and economic information on the Titanic's passengers, as well as whether each passenger survived its sinking. 
 More precisely, the Kaggle dataset is already split into a training batch (train.csv) and a test batch (test.csv), and we will focus on the training set in this project.
 
